@@ -3,12 +3,6 @@
 
 Um sistema bancário simples rodando no terminal feito em Java. Dá pra criar contas, depositar, sacar, ver saldo e consultar extrato.
 
-##  Como rodar
-
-```bash
-javac Banco.java
-java Banco
-```
 
 ##  Funcionalidades
 
