@@ -1,16 +1,16 @@
 # Banco Java Simples
-# 🏦 Banco Simples no Terminal
+#  Banco Simples no Terminal
 
 Um sistema bancário simples rodando no terminal feito em Java. Dá pra criar contas, depositar, sacar, ver saldo e consultar extrato.
 
-## 🚀 Como rodar
+##  Como rodar
 
 ```bash
 javac Banco.java
 java Banco
 ```
 
-## 🔧 Funcionalidades
+##  Funcionalidades
 
 - **Criar conta** — cadastra um novo titular
 - **Depositar** — adiciona saldo na conta
@@ -18,9 +18,9 @@ java Banco
 - **Ver saldo** — mostra o saldo atual
 - **Ver extrato** — lista todas as movimentações
 
-## 📌 Exemplo
+##  Exemplo
 
-```
+
 === Banco ===
 1. Criar conta
 2. Depositar
@@ -30,9 +30,9 @@ Escolha: 2
 Titular: João
 Valor: R$ 500
 Depósito realizado! Saldo: R$ 500.0
-```
 
-## 🧠 Conceitos praticados
+
+##  Conceitos praticados
 
 - `boolean` — controla o loop do menu
 - `while` — mantém o programa rodando
